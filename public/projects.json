@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "CarHub",
+    "description": "Whether you're a car enthusiast looking to explore the latest models or a potential buyer researching your next vehicle, CarShowcase is the go-to app for all things automotive.",
+    "image": "/carhub.png",
+    "link": "https://next-carshow-case.vercel.app/"
+  },
+  {
+    "id": 2,
+    "name": "E-commerce | Shopper",
+    "description": "Welcome to Shopper, where your online shopping experience is taken to new heights! Discover a world of convenience and endless choices right at your fingertips.",
+    "image": "/shopper.png",
+    "link": "https://shopperecommerce.netlify.app/"
+  }
+]
