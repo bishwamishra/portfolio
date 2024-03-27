@@ -1,14 +1,15 @@
 import React from "react";
+import YourImage from "/bishwa.jpg";
 
 const Home = () => {
   return (
     <div className="mt-20 bg-bgShade" id="home">
       <div className="lg:px-12 px-4 flex flex-col md:flex-row-reverse items-center justify-between py-24 gap-5">
-        <div className="md:w-1/2 w-full h-96 shadow-2xl bg-bgShade">
+        <div className="md:w-1/2 h-auto shadow-2xl bg-bgShade">
           <img
-            src="https://scontent.fktm8-1.fna.fbcdn.net/v/t1.6435-9/45647088_1154165451410445_7394430071496245248_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=7a1959&_nc_ohc=FMOG3sA3SUYAX_c8ej-&_nc_ht=scontent.fktm8-1.fna&oh=00_AfC28xE53Yt_ktXzXmJsZ73QEpuHe9XiC0yG-0GOoErKLg&oe=65B0D8F4"
-            alt=""
-            className="w-full h-full object-cover rounded"
+            src={YourImage}
+            alt="YourImage"
+            className="w-80 h-102 object-cover rounded"
           />
         </div>
         {/* left side */}
