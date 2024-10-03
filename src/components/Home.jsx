@@ -15,10 +15,12 @@ const Home = () => {
         {/* left side */}
         <div className="md:w-1/2 w-full mt-5">
           <p className="text-xl text-headingcolor font-semibold mb-5">
-            I AM BASED IN KATHMANDU, NEPAL
+            I AM BASED IN UNITED STATES,
           </p>
           <h1 className="md:text-6xl text-4xl font-bold text-headingcolor leading-snug md:leading-[76px]  mb-5">
-            <span className="text-primary">Fullstack Developer</span>
+            <span className="text-primary">
+              Fullstack Developer | Cybersecurity Expert
+            </span>
           </h1>
           <p className="text-2xl text-body leading-9 mb-8">
             Hi, my name is Bishwa Mishra. I create beautiful, fast and
